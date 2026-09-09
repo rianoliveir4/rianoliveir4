@@ -10,7 +10,7 @@ Before Credifit I spent a year on mobile, building React Native apps for Brazili
 
 ### Building right now
 
-**[Pulso](https://trypulso.vercel.app/)** — a workout tracker I actually use at the gym. NestJS and PostgreSQL on Railway, front end on Vercel, installable as a PWA.
+**[Pulso](https://pulsoapp.pro/)** — a workout tracker I actually use at the gym. NestJS and PostgreSQL on Railway, front end on Vercel, installable as a PWA.
 
 ### Stack
 
