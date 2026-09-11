@@ -1,6 +1,6 @@
 # Rian Oliveira
 
-Full-stack developer in Brasília, Brazil. Four years shipping web and mobile systems for fintech and the public sector — from first commit to production.
+Full-stack developer in Brasília, Brazil. Five years shipping web and mobile systems for fintech and the public sector — from first commit to production.
 
 I'm currently at **Credifit**, on an accounting platform that runs 24/7 for more than 2,000 businesses: TypeScript, Vue and NestJS over PostgreSQL. Most of my work there is the unglamorous half of fintech — integrations with banks and government systems, automated issuance of tax documents, and keeping the whole thing stable while it's in use.
 
